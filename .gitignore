@@ -1,0 +1,45 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environments
+venv/
+.env/
+.envrc
+
+# Secrets or API keys
+*.key
+*.pem
+*.crt
+*.env
+secrets.json
+
+# SQLite and DB backups
+*.db
+*.sqlite3
+*.bak
+*.sql
+
+# Logs and debug
+logs/
+*.log
+
+# Testing data
+feeds/testing/
+*.test.*
+test_*.csv
+test_output/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor configs
+.vscode/
+.idea/
+*.swp
+
+scripts/tests/

@@ -1,0 +1,83 @@
+[
+    {
+        "uuid": "60a575fe-52ad-4840-83cb-94b15f4744a5",
+        "name": "test_1.csv",
+        "path": "feeds/validated_data_files/test_1.csv",
+        "source": "test_1.csv",
+        "validated_at": "2025-07-16T10:02:05.356301",
+        "ioc_count": 6,
+        "last_updated": "2025-07-16T10:02:05.356301"
+    },
+    {
+        "uuid": "a7cd8a4e-be42-4ef5-aaff-61da883875c4",
+        "name": "test_iocs_1.csv",
+        "path": "feeds/validated_data_files/test_iocs_1.csv",
+        "source": "test_iocs_1.csv",
+        "validated_at": "2025-07-16T11:29:08.590540",
+        "ioc_count": 49,
+        "last_updated": "2025-07-16T11:29:08.590540"
+    },
+    {
+        "uuid": "788fa97f-ca80-41b0-8736-0a6233140842",
+        "name": "test_iocs_2.txt",
+        "path": "feeds/validated_data_files/test_iocs_2.txt",
+        "source": "test_iocs_2.txt",
+        "validated_at": "2025-07-16T11:30:53.904329",
+        "ioc_count": 26,
+        "last_updated": "2025-07-16T11:30:53.904329"
+    },
+    {
+        "uuid": "630f5af1-f17b-4045-b1a6-3f383083bff2",
+        "name": "round1.csv",
+        "path": "feeds/validated_data_files\\round1.csv",
+        "source": "round1.csv",
+        "validated_at": "2025-07-16T12:51:30.101765",
+        "ioc_count": 7,
+        "last_updated": "2025-07-16T12:59:08.948910"
+    },
+    {
+        "uuid": "ec5cd990-c183-4a01-ac01-7ecd0d5efbf2",
+        "name": "round_1_mixed.csv",
+        "path": "feeds/validated_data_files\\round_1_mixed.csv",
+        "source": "round_1_mixed.csv",
+        "validated_at": "2025-07-16T12:53:23.675149",
+        "ioc_count": 3,
+        "last_updated": "2025-07-16T12:53:23.675149"
+    },
+    {
+        "uuid": "32ad20cd-7df9-4575-899d-10d5d036b634",
+        "name": "test_duplicates.csv",
+        "path": "feeds/validated_data_files\\test_duplicates.csv",
+        "source": "test_duplicates.csv",
+        "validated_at": "2025-07-16T12:54:07.288692",
+        "ioc_count": 5,
+        "last_updated": "2025-07-16T12:54:07.288692"
+    },
+    {
+        "uuid": "f718a256-0c1e-451b-96eb-f549741b8a96",
+        "name": "edge_case.csv",
+        "path": "feeds/validated_data_files\\edge_case.csv",
+        "source": "edge_case.csv",
+        "validated_at": "2025-07-16T12:56:45.092753",
+        "ioc_count": 3,
+        "last_updated": "2025-07-16T12:56:45.092753"
+    },
+    {
+        "uuid": "17b73fbd-72f8-4c23-a9a1-6d4453f0a7d7",
+        "name": "malformed.csv",
+        "path": "feeds/validated_data_files\\malformed.csv",
+        "source": "malformed.csv",
+        "validated_at": "2025-07-16T12:57:27.120691",
+        "ioc_count": 2,
+        "last_updated": "2025-07-16T12:57:27.120691"
+    },
+    {
+        "uuid": "26c65d4e-69b0-4372-9ca4-3700c0b04f4d",
+        "name": "test_bulk_1000.csv",
+        "path": "feeds/validated_data_files\\test_bulk_1000.csv",
+        "source": "test_bulk_1000.csv",
+        "validated_at": "2025-07-16T13:03:25.995218",
+        "ioc_count": 1002,
+        "last_updated": "2025-07-16T13:11:03.805902"
+    }
+]

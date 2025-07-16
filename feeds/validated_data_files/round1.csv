@@ -1,0 +1,7 @@
+8.8.8.8,ipv4
+evil-domain.com,domain
+http://badstuff.com/login,url
+d41d8cd98f00b204e9800998ecf8427e,md5
+9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08,sha256
+jack4n6.com,domain
+0xth0rne.com,domain
